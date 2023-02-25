@@ -16,8 +16,7 @@ https://user-images.githubusercontent.com/78643530/216241190-0c9a7af6-136d-46e6-
 
 ## 3) Weather
 
-<img width="310" height="550" alt="Screen Shot 2023-02-02 at 11 43 45 AM" src="https://user-images.githubusercontent.com/78643530/216241881-90decad9-721c-43b3-a034-ff6e17b7bcef.png"> <img width="310" height="550" alt="Screen Shot 2023-02-02 at 11 44 03 AM" src="https://user-images.githubusercontent.com/78643530/216241895-fadc2088-6865-40ee-8376-ff7fc9765cab.png">
-<img width="310" height="550" alt="Screen Shot 2023-02-02 at 11 44 25 AM" src="https://user-images.githubusercontent.com/78643530/216241906-581b2ba4-6552-4ca9-a372-ff3bbe858811.png"> <img width="310" height="550" alt="Screen Shot 2023-02-02 at 11 46 16 AM" src="https://user-images.githubusercontent.com/78643530/216242233-e7bb48ac-083a-45ac-ba52-155ef79a885d.png">
+<img width="180" height="340" alt="Screen Shot 2023-02-02 at 11 43 45 AM" src="https://user-images.githubusercontent.com/78643530/216241881-90decad9-721c-43b3-a034-ff6e17b7bcef.png"> <img width="180" height="340" alt="Screen Shot 2023-02-02 at 11 44 03 AM" src="https://user-images.githubusercontent.com/78643530/216241895-fadc2088-6865-40ee-8376-ff7fc9765cab.png"><img width="180" height="340" alt="Screen Shot 2023-02-02 at 11 44 25 AM" src="https://user-images.githubusercontent.com/78643530/216241906-581b2ba4-6552-4ca9-a372-ff3bbe858811.png"> <img width="180" height="340" alt="Screen Shot 2023-02-02 at 11 46 16 AM" src="https://user-images.githubusercontent.com/78643530/216242233-e7bb48ac-083a-45ac-ba52-155ef79a885d.png">
 
 https://user-images.githubusercontent.com/78643530/216239914-781ebf73-9a68-4d6b-8a4f-51d1b5e05a4f.mov
 
